@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+.image img{
+    height: 500px;
+    width:100%;
+    opacity: 100px;
+}
+.para{
+    position: relative;
+    top: 10px;
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+}
